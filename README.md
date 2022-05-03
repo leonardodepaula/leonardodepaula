@@ -1,3 +1,18 @@
 ## Leonardo de Paula
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardodepaula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+:book: Education
+Law graduation | Pontifícial Catholic University of Goiás - PUC-GO
+Tax Law postgraduate | National School of Public Administration - ENAP
+
+:briefcase: Work
+Tax Auditor | Brazilian Federal Revenue Service - RFB
+
+:bulb: Interests
+Python
+Web Development | Django | FastAPI | Vue.js | NGINX
+Databases| SQL | MariaDB | PostgreSQL | SQLAlchemy
+Containers | Docker
+Data Science | Machine Learning | NLP | Numpy | Pandas | Scikit-Learn | Pytorch
+Linux | Fedora | Red Hat downstream distributions | Gnome
+Tax Law | Tax conformity
+Photography | Timelapse 
