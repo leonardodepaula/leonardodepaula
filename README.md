@@ -1,8 +1,6 @@
-# Leonardo de Paula
-
 <div class="termy">
 
-:book: Education
+## :book: Education
 
 Law graduation | Pontifícial Catholic University of Goiás - PUC-GO
 
@@ -11,14 +9,14 @@ Tax Law postgraduate | National School of Public Administration - ENAP
 </div>
 <div class="termy">
 
-:briefcase: Work
+## :briefcase: Work
 
 Tax Auditor | Brazilian Federal Revenue Service - RFB
 
 </div>
 <div class="termy">
 
-:bulb: Interests
+## :bulb: Interests
 
 Python
 
