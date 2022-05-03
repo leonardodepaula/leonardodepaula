@@ -4,7 +4,7 @@
 
 Law graduation | Pontifícial Catholic University of Goiás - PUC-GO
 
-Tax Law postgraduate | National School of Public Administration - ENAP
+Tax Law postgraduation | National School of Public Administration - ENAP
 
 </div>
 <div class="termy">
@@ -20,9 +20,9 @@ Tax Auditor | Brazilian Federal Revenue Service - RFB
 
 Python
 
-Web Development | Django | FastAPI | Vue.js | NGINX
+Web Development | Django | FastAPI | Vue.js
 
-Databases| SQL | MariaDB | PostgreSQL | SQLAlchemy
+Databases | SQL | MariaDB | PostgreSQL | SQLAlchemy
 
 Containers | Docker
 
