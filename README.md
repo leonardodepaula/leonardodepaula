@@ -32,6 +32,8 @@ Linux | Fedora | Red Hat downstream distributions | Gnome
 
 Tax Law | Tax conformity
 
-Photography | Timelapse 
+Photography | Timelapse
+
+Chess
 
 </div>
