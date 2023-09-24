@@ -1,39 +1,23 @@
 <div class="termy">
 
-## :book: Education
+## :book: Educação
 
-Law graduation | Pontifícial Catholic University of Goiás - PUC-GO
+Graduação em Direito | Pontifícia Universidade Católica de Goiás - PUC-GO
 
-Tax Law postgraduation | National School of Public Administration - ENAP
-
-</div>
-<div class="termy">
-
-## :briefcase: Work
-
-Tax Auditor | Brazilian Federal Revenue Service - RFB
+Pós-graduação em Direito Tributário | Escola Nacional de Administração Pública - ENAP
 
 </div>
 <div class="termy">
 
-## :bulb: Interests
+## :briefcase: Trabalho
 
-Python
+Auditor-Fiscal | Receita Federal do Brasil - RFB
 
-Web Development | Django | FastAPI | Vue.js
+</div>
+<div class="termy">
 
-Databases | SQL | MariaDB | PostgreSQL | SQLAlchemy
+## :bulb: Interesses
 
-Containers | Docker
-
-Data Science | Machine Learning | NLP | Numpy | Pandas | Scikit-Learn | Pytorch
-
-Linux | Fedora | Red Hat downstream distributions | Gnome
-
-Tax Law | Tax conformity
-
-Photography | Timelapse
-
-Chess
+Direito Tributário | Python | Xadrez
 
 </div>
