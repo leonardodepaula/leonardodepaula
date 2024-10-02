@@ -18,6 +18,6 @@ Auditor-Fiscal | Receita Federal do Brasil - RFB
 
 ## :bulb: Interesses
 
-Direito Tributário | Python | Xadrez
+Direito Tributário | Python | Rust
 
 </div>
